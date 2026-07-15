@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <!--
 **Aladdin00/Aladdin00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +13,23 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Hi, I'm Ali 👋
+
+🎓 BIS Graduate
+📊 Aspiring Data Analyst
+
+## Skills
+- SQL
+- Power BI
+- Excel
+- Python (Pandas, NumPy, Matplotlib)
+- Tableau
+
+## Currently Learning
+- Advanced SQL
+- Data Cleaning
+- Dashboard Design
+
+## Contact
+LinkedIn: www.linkedin.com/in/alieldin190
+Email: alyshaker2004@gmail.com
